@@ -1,2 +1,1 @@
-# pedro-casals
-este es un nuevo repositorio del modulo 2 del precourse de henry...
+este repositorio de prueba de henry para despues clonarlo a git hub a mi computadora
